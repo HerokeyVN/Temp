@@ -252,6 +252,11 @@
         <mxCell id="aLaE8Y5iJszUTj7ZNw05-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9MXM0dnjMCFk9j_at928-6" target="aLaE8Y5iJszUTj7ZNw05-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GNG1viAg2KIOqujsNBYO-1" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aLaE8Y5iJszUTj7ZNw05-6">
+          <mxGeometry x="-0.0869" y="2" relative="1" as="geometry">
+            <mxPoint y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9MXM0dnjMCFk9j_at928-6" value="i &amp;gt; N" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="188" y="380" width="116.67" height="70" as="geometry" />
         </mxCell>
@@ -368,7 +373,7 @@
         </mxCell>
         <mxCell id="oqfgLktJeiOz5ooVPCtr-1" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8hqlPJv06RA7wRMPMIqZ-16">
           <mxGeometry x="0.0482" y="-3" relative="1" as="geometry">
-            <mxPoint x="-4" y="-10" as="offset" />
+            <mxPoint x="-4" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8hqlPJv06RA7wRMPMIqZ-8" value="i &amp;gt; 100" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
@@ -509,11 +514,57 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="tZvxPjAfRYNGL37RQIeM" name="Trang-9">
+  <diagram id="tZvxPjAfRYNGL37RQIeM" name="Bài 9">
     <mxGraphModel dx="1114" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N14K-1joGomcrRuUKlVc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N14K-1joGomcrRuUKlVc-1" target="N14K-1joGomcrRuUKlVc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N14K-1joGomcrRuUKlVc-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eIKbNtJcwuq9adkd70TY-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N14K-1joGomcrRuUKlVc-2" target="eIKbNtJcwuq9adkd70TY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N14K-1joGomcrRuUKlVc-2" value="a = 0&lt;div&gt;b = 1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIKbNtJcwuq9adkd70TY-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eIKbNtJcwuq9adkd70TY-1" target="eIKbNtJcwuq9adkd70TY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eIKbNtJcwuq9adkd70TY-11" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eIKbNtJcwuq9adkd70TY-4">
+          <mxGeometry x="-0.206" y="1" relative="1" as="geometry">
+            <mxPoint x="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIKbNtJcwuq9adkd70TY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eIKbNtJcwuq9adkd70TY-1" target="eIKbNtJcwuq9adkd70TY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eIKbNtJcwuq9adkd70TY-10" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eIKbNtJcwuq9adkd70TY-9">
+          <mxGeometry x="-0.0055" y="-3" relative="1" as="geometry">
+            <mxPoint x="-2" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eIKbNtJcwuq9adkd70TY-1" value="If b &amp;gt; 100" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="347" y="260" width="133.33" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eIKbNtJcwuq9adkd70TY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eIKbNtJcwuq9adkd70TY-3" target="eIKbNtJcwuq9adkd70TY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eIKbNtJcwuq9adkd70TY-3" value="Output b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354.005" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIKbNtJcwuq9adkd70TY-5" value="temp = b&lt;div&gt;b += a&lt;/div&gt;&lt;div&gt;a = temp&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353.995" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIKbNtJcwuq9adkd70TY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.488;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eIKbNtJcwuq9adkd70TY-5" target="eIKbNtJcwuq9adkd70TY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eIKbNtJcwuq9adkd70TY-8" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
