@@ -523,13 +523,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N14K-1joGomcrRuUKlVc-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="40" width="120" height="80" as="geometry" />
+          <mxGeometry x="274" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eIKbNtJcwuq9adkd70TY-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N14K-1joGomcrRuUKlVc-2" target="eIKbNtJcwuq9adkd70TY-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N14K-1joGomcrRuUKlVc-2" value="a = 0&lt;div&gt;b = 1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="274" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eIKbNtJcwuq9adkd70TY-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eIKbNtJcwuq9adkd70TY-1" target="eIKbNtJcwuq9adkd70TY-3">
           <mxGeometry relative="1" as="geometry" />
@@ -548,22 +548,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eIKbNtJcwuq9adkd70TY-1" value="If b &amp;gt; 100" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
-          <mxGeometry x="347" y="260" width="133.33" height="80" as="geometry" />
+          <mxGeometry x="267" y="260" width="133.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eIKbNtJcwuq9adkd70TY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eIKbNtJcwuq9adkd70TY-3" target="eIKbNtJcwuq9adkd70TY-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIKbNtJcwuq9adkd70TY-3" value="Output b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="354.005" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="274.005" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eIKbNtJcwuq9adkd70TY-5" value="temp = b&lt;div&gt;b += a&lt;/div&gt;&lt;div&gt;a = temp&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353.995" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="273.995" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eIKbNtJcwuq9adkd70TY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.488;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eIKbNtJcwuq9adkd70TY-5" target="eIKbNtJcwuq9adkd70TY-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIKbNtJcwuq9adkd70TY-8" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="260" width="120" height="80" as="geometry" />
+          <mxGeometry x="460" y="260" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
