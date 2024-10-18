@@ -1078,19 +1078,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2kZdcdt5Aj80opTlIE6o-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2kZdcdt5Aj80opTlIE6o-1">
-          <mxGeometry x="275.3" y="40" width="120" height="80" as="geometry" />
+          <mxGeometry x="266.3" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2kZdcdt5Aj80opTlIE6o-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2kZdcdt5Aj80opTlIE6o-1" source="2kZdcdt5Aj80opTlIE6o-5" target="2kZdcdt5Aj80opTlIE6o-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2kZdcdt5Aj80opTlIE6o-5" value="Input N&amp;nbsp;&lt;div&gt;and A[N-1] list of number&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="2kZdcdt5Aj80opTlIE6o-1">
-          <mxGeometry x="250.3" y="160" width="170" height="60" as="geometry" />
+          <mxGeometry x="241.3" y="160" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2kZdcdt5Aj80opTlIE6o-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2kZdcdt5Aj80opTlIE6o-1" source="2kZdcdt5Aj80opTlIE6o-7" target="2kZdcdt5Aj80opTlIE6o-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2kZdcdt5Aj80opTlIE6o-7" value="&lt;span style=&quot;background-color: initial;&quot;&gt;i = 0&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;j = i+1&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2kZdcdt5Aj80opTlIE6o-1">
-          <mxGeometry x="275.00000000000006" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="266.00000000000006" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4WG5vQNrIcyzj3wZU9r6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2kZdcdt5Aj80opTlIE6o-1" source="2kZdcdt5Aj80opTlIE6o-12" target="4WG5vQNrIcyzj3wZU9r6-0">
           <mxGeometry relative="1" as="geometry" />
@@ -1109,7 +1109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2kZdcdt5Aj80opTlIE6o-12" value="i&amp;nbsp; &amp;gt;= N" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="2kZdcdt5Aj80opTlIE6o-1">
-          <mxGeometry x="268.34" y="360" width="133.33" height="80" as="geometry" />
+          <mxGeometry x="259.34" y="360" width="133.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4WG5vQNrIcyzj3wZU9r6-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2kZdcdt5Aj80opTlIE6o-1" source="4WG5vQNrIcyzj3wZU9r6-0" target="4WG5vQNrIcyzj3wZU9r6-5">
           <mxGeometry relative="1" as="geometry" />
@@ -1128,10 +1128,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4WG5vQNrIcyzj3wZU9r6-0" value="j &amp;lt; N" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="2kZdcdt5Aj80opTlIE6o-1">
-          <mxGeometry x="268.64" y="480" width="133.33" height="80" as="geometry" />
+          <mxGeometry x="259.64" y="480" width="133.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4WG5vQNrIcyzj3wZU9r6-5" value="i += 1&lt;div&gt;j = i+1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="2kZdcdt5Aj80opTlIE6o-1">
-          <mxGeometry x="89.995" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="80.995" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4WG5vQNrIcyzj3wZU9r6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2kZdcdt5Aj80opTlIE6o-1" source="4WG5vQNrIcyzj3wZU9r6-8" target="4WG5vQNrIcyzj3wZU9r6-15">
           <mxGeometry relative="1" as="geometry" />
@@ -1150,23 +1150,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4WG5vQNrIcyzj3wZU9r6-8" value="A[j] &amp;lt; A[i]&amp;nbsp;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="2kZdcdt5Aj80opTlIE6o-1">
-          <mxGeometry x="460" y="480" width="133.33" height="80" as="geometry" />
+          <mxGeometry x="451" y="480" width="133.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4WG5vQNrIcyzj3wZU9r6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.012;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2kZdcdt5Aj80opTlIE6o-1" source="4WG5vQNrIcyzj3wZU9r6-5" target="2kZdcdt5Aj80opTlIE6o-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="105.00500000000011" y="521" as="sourcePoint" />
-            <mxPoint x="262.94001000000003" y="406.03999999999996" as="targetPoint" />
+            <mxPoint x="96.00500000000011" y="521" as="sourcePoint" />
+            <mxPoint x="253.94001000000003" y="406.03999999999996" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="90" y="521" />
-              <mxPoint x="75" y="521" />
-              <mxPoint x="75" y="401" />
-              <mxPoint x="263" y="401" />
-              <mxPoint x="263" y="400" />
+              <mxPoint x="81" y="521" />
+              <mxPoint x="66" y="521" />
+              <mxPoint x="66" y="401" />
+              <mxPoint x="254" y="401" />
+              <mxPoint x="254" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4WG5vQNrIcyzj3wZU9r6-15" value="i += 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="2kZdcdt5Aj80opTlIE6o-1">
-          <mxGeometry x="466.66499999999996" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="457.66499999999996" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4WG5vQNrIcyzj3wZU9r6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2kZdcdt5Aj80opTlIE6o-1" source="4WG5vQNrIcyzj3wZU9r6-15" target="4WG5vQNrIcyzj3wZU9r6-8">
           <mxGeometry relative="1" as="geometry" />
@@ -1175,16 +1175,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4WG5vQNrIcyzj3wZU9r6-19" value="Swap A[i] and A[j]" style="whiteSpace=wrap;html=1;" vertex="1" parent="2kZdcdt5Aj80opTlIE6o-1">
-          <mxGeometry x="650.005" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="641.005" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4WG5vQNrIcyzj3wZU9r6-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2kZdcdt5Aj80opTlIE6o-1" source="4WG5vQNrIcyzj3wZU9r6-24" target="4WG5vQNrIcyzj3wZU9r6-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4WG5vQNrIcyzj3wZU9r6-24" value="Print list of number&lt;div&gt;(A[0..N-1])&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="2kZdcdt5Aj80opTlIE6o-1">
-          <mxGeometry x="466.66" y="370" width="143.34" height="60" as="geometry" />
+          <mxGeometry x="457.66" y="370" width="143.34" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4WG5vQNrIcyzj3wZU9r6-26" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2kZdcdt5Aj80opTlIE6o-1">
-          <mxGeometry x="650.01" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="641.01" y="360" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
