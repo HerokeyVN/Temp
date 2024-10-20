@@ -409,7 +409,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bgxMqJ2sw_KH7gQQCRsl" name="Bài 7">
-    <mxGraphModel dx="1114" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -450,7 +450,7 @@
         <mxCell id="8hqlPJv06RA7wRMPMIqZ-10" value="Output i" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="283.665" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8hqlPJv06RA7wRMPMIqZ-12" value="i += 1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8hqlPJv06RA7wRMPMIqZ-12" value="i += 2" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="284.005" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8hqlPJv06RA7wRMPMIqZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8hqlPJv06RA7wRMPMIqZ-12" target="8hqlPJv06RA7wRMPMIqZ-8" edge="1">
