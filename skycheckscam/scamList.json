@@ -141,7 +141,7 @@
           "en_US": "Trading Liên Quân (LQ) game accounts (Sky account for LQ account). After the buyer provided Facebook login details for linking, the LQ account is not accessible."
         },
         "moreInfo": {
-          "vi_VN": "Đề nghị trade acc Liên Quân do chán game LQ, muốn đổi sang game khác (có thể là Sky). Yêu cầu người mua cung cấp tài khoản Facebook để liên kết với tài khoản LQ. Thông tin tài khoản LQ có thể là giả hoặc không hoạt động. Tài khoản LQ được cung cấp: Gmail: Khangchan2010@Minh123@, Usernames: Khangchan2010 và Minh123.",
+          "vi_VN": "Đề nghị trade acc Liên Quân do chán game LQ, muốn đổi sang game khác (có thể là Sky). Yêu cầu người mua cung cấp tài khoản Facebook để liên kết với tài khoản LQ. Thông tin tài khoản LQ có thể là giả hoặc không hoạt động. Tài khoản LQ được cung cấp: MK: Khangchan2010@ và Minh123@, Usernames: Khangchan2010 và Minh123.",
           "en_US": "Offers to trade LQ accounts because they are bored of LQ and want to switch to another game (possibly Sky). Requests the buyer to provide their Facebook account to link with the LQ account. The LQ account information might be fake or inactive. Provided LQ account details: Gmail: Khangchan2010@Minh123@, Usernames: Khangchan2010 and Minh123."
         }
     },
@@ -163,12 +163,113 @@
             "https://www.facebook.com/share/p/1FPv6LsPP7/"
         ],
         "method": {
-          "vi_VN": "Lừa đảo nạp pass game (có thể là Sky: Children of the Light), sau khi nhận tiền thì xóa tin nhắn chứa thông tin ngân hàng và chặn liên lạc.",
-          "en_US": "Scamming by offering to recharge game passes (possibly Sky: Children of the Light), deleting chat history with bank info and blocking contact after receiving payment."
+          "vi_VN": "Lừa đảo nạp pass game, sau khi nhận tiền thì xóa tin nhắn chứa thông tin ngân hàng và chặn liên lạc.",
+          "en_US": "Scamming by offering to recharge game passes, deleting chat history with bank info and blocking contact after receiving payment."
         },
         "moreInfo": {
           "vi_VN": "Đối tượng có tương tác cao trong nhóm và có bài đăng 'check legit' tạo sự tin tưởng. Nạn nhân đã kiểm tra thông tin ngân hàng trong nhóm và tin là an toàn. Đối tượng đặt nạn nhân vào 'slot 3', có thể ám chỉ nhiều nạn nhân khác hoặc kế hoạch lừa đảo tiếp theo. Số tiền bị lừa là 410.000 VND với nội dung chuyển khoản 'Takeru Guzen'. Nạn nhân đã tin tưởng đối tượng do có tương tác thân mật trước đó trong game.",
           "en_US": "The scammer had high engagement in the group and 'check legit' posts to build trust. The victim checked bank details within the group and believed it was safe. The scammer placed the victim in 'slot 3', possibly indicating other victims or future scams. The amount scammed is 410,000 VND with transaction description 'Takeru Guzen'. The victim trusted the scammer due to previous friendly interactions in the game."
+        }
+    },
+    {
+        "id": "SCS11",
+        "fbName": "Cá Bay (nay đổi tên thành Phạm Thanh)",
+        "realName": "Phạm Thanh",
+        "fbUID": "100074336300287",
+        "linkWarn": [
+          "https://www.facebook.com/share/p/6uW9s8bGwmx3gr2i/",
+          "https://www.facebook.com/share/p/15vpVcou6m/"
+        ],
+        "method": {
+          "vi_VN": "Rao bán tài khoản game",
+          "en_US": "Selling game accounts"
+        },
+        "moreInfo": {
+          "vi_VN": "Trước đây có tên Facebook là 'Cá Bay', hiện tại đã đổi tên thành 'Phạm Thanh' và vẫn tiếp tục hoạt động rao bán tài khoản. Người đăng bài cảnh báo có thể đã bị chặn bởi Facebook này sau khi nhắc nhở người khác cẩn thận. Cảnh báo mọi người nên cẩn thận với đối tượng này khi giao dịch.",
+          "en_US": "Previously used the Facebook name 'Cá Bay', currently changed to 'Phạm Thanh' and is still actively selling accounts. The poster of the warning may have been blocked by this Facebook account after warning others to be careful.  Warning everyone to be cautious when trading with this person."
+        }
+    },
+    {
+        "id": "SCS12",
+        "fbName": "Nguyễn Nhi",
+        "realName": "VO NGUYEN HONG PHUC",
+        "bank": [
+          {
+            "bankName": "MBbank",
+            "bankNumber": "5554908052003",
+            "accountHolder": "VO NGUYEN HONG PHUC"
+          }
+        ],
+        "fbUID": [
+          "100077432120688",
+          "100091552458123"
+        ],
+        "linkWarn": [
+          "https://www.facebook.com/share/p/1BMy8dEjZR/",
+          "https://www.facebook.com/share/p/1F4QMFAA2b/",
+          "https://www.facebook.com/share/p/15L5bawHGC/"
+        ],
+        "method": {
+          "vi_VN": "Giả mạo trung gian giao dịch (middleman) Hà Viễn để lừa đảo mua bán tài khoản game. Tạo tài khoản Facebook giả mạo Hà Viễn để tăng độ tin cậy.",
+          "en_US": "Impersonating middleman Hà Viễn to scam in game account trading. Creates fake Facebook account impersonating Hà Viễn to build trust."
+        },
+        "moreInfo": {
+          "vi_VN": "Đối tượng sử dụng Facebook 'Nguyễn Nhi' và mạo danh middleman 'Hà Viễn'.  Liên hệ với nạn nhân để chào bán tài khoản game, gợi ý sử dụng dịch vụ trung gian của 'Hà Viễn' nhưng thực chất là tài khoản giả mạo do chính đối tượng tạo ra. Sau khi bị phát hiện, đối tượng đã chặn nạn nhân và xóa khỏi nhóm chat. Đối tượng đã tiếp tục liên hệ với nạn nhân bằng Facebook khác sau khi bị chặn.",
+          "en_US": "The scammer uses Facebook 'Nguyễn Nhi' and impersonates middleman 'Hà Viễn'. Contacts victims offering game accounts for sale, suggests using 'Hà Viễn' as middleman but uses a fake account created by themselves. After being exposed, the scammer blocked the victim and removed them from the chat group. The scammer contacted the victim again using a different Facebook account after being blocked."
+        }
+    },
+    {
+        "id": "SCS13",
+        "realName": "Nguyen Duy",
+        "fbUID": [
+            "100091565045628"
+        ],
+        "linkWarn": [
+            "https://www.facebook.com/share/p/16BGeroSb1/"
+        ],
+        "method": "FB bị cảnh báo là mạo danh và lừa đảo. Cảnh báo nên cẩn thận.",
+        "moreInfo": "FB bị cảnh báo là mạo danh và lừa đảo. Cảnh báo nên cẩn thận."
+    },
+    {
+        "id": "SCS14",
+        "fbName": "Nguyễn Nam",
+        "fbUID": [],
+        "linkWarn": [
+            "https://www.facebook.com/share/p/19u3nMM8dk/"
+        ],
+        "method": {
+          "vi_VN": "Rao bán tài khoản game, nghi ngờ lừa đảo vì người mua suýt bị 'đóng học phí' (mất tiền oan).",
+          "en_US": "Selling game accounts, suspected scam as buyer almost got 'scammed' (lost money)."
+        },
+        "moreInfo": {
+          "vi_VN": "Người mua đã chủ động đề xuất sử dụng trung gian (middleman) để giao dịch. Đối tượng bán nói tài khoản liên kết 1/1 gmail. Không có thông tin chi tiết về phương thức lừa đảo cụ thể nhưng cảnh báo rằng đây là đối tượng lừa đảo và người mua suýt chút nữa đã bị mất tiền.",
+          "en_US": "Buyer proactively suggested using a middleman for the transaction. Seller mentioned the account is linked 1/1 gmail. No specific details on the exact scam method, but warned that this is a scammer and the buyer almost lost money."
+        }
+      },
+      {
+        "id": "SCS15",
+        "fbName": "Phương Linh (Triệu Đạt fifai, Huế Trang)",
+        "realName": "PHAN DINH TRIEU DAT",
+        "bank": [
+          {
+            "bankName": "Vietcombank (VCB)",
+            "bankNumber": "1052413356",
+            "accountHolder": "PHAN DINH TRIEU DAT"
+          }
+        ],
+        "fbUID": [
+            "61559690788864"
+        ],
+        "linkWarn": [
+          "https://www.facebook.com/share/p/16KQtNpErT/"
+        ],
+        "method": {
+          "vi_VN": "Sử dụng dịch vụ trung gian giả mạo để lừa đảo mua bán tài khoản. Sử dụng các chiêu trò như 'Mid lq, ff cọc mấy trăm M checkscam', 'rửa tiền'.",
+          "en_US": "Using fake middleman service to scam in game account trading. Uses tactics like 'Mid lq, ff cọc mấy trăm M checkscam', 'money laundering'."
+        },
+        "moreInfo": {
+          "vi_VN": "Tài khoản Facebook 'Phương Linh' là clone của 'Huế Trang aka Triệu Đạt fifai'. Cảnh báo về các từ khóa liên quan đến đối tượng lừa đảo này: 'Mid lq, ff cọc mấy trăm M checkscam', 'Rửa tiền', 'Phan Dinh Trieu Dat'. Yêu cầu người mua quay video lúc giao dịch và thỏa thuận, có điều khoản về phí dịch vụ trung gian và 'rửa tiền' để tăng tính chuyên nghiệp giả tạo.",
+          "en_US": "Facebook account 'Phương Linh' is a clone of 'Huế Trang aka Triệu Đạt fifai'. Warns about keywords related to this scammer: 'Mid lq, ff cọc mấy trăm M checkscam', 'Rửa tiền', 'Phan Dinh Trieu Dat'. Requires buyers to record video during transaction and agreement, includes terms about middleman service fees and 'money laundering' to create a fake sense of professionalism."
         }
     }
 ]
