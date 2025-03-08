@@ -129,11 +129,12 @@
     },
     {
         "id": "SCS9",
-        "fbName": "Nguyễn Minh Hằng",
-        "phone": "0332281217",
-        "fbUID": "100073492388077",
+        "fbName": "Thùy Trang",
+        "fbUID": [
+            "100073492388077"
+        ],
         "linkWarn": [
-          "https://www.facebook.com/share/19hjDAbNsE/?mibextid=wwXIfr"
+          "https://www.facebook.com/share/p/1DLGxAAEq2/"
         ],
         "method": {
           "vi_VN": "Giao dịch/trao đổi tài khoản game Liên Quân (LQ) (đổi acc Sky lấy acc LQ). Sau khi người mua đưa thông tin tài khoản Facebook để liên kết thì tài khoản LQ không đăng nhập được.",
@@ -142,6 +143,32 @@
         "moreInfo": {
           "vi_VN": "Đề nghị trade acc Liên Quân do chán game LQ, muốn đổi sang game khác (có thể là Sky). Yêu cầu người mua cung cấp tài khoản Facebook để liên kết với tài khoản LQ. Thông tin tài khoản LQ có thể là giả hoặc không hoạt động. Tài khoản LQ được cung cấp: Gmail: Khangchan2010@Minh123@, Usernames: Khangchan2010 và Minh123.",
           "en_US": "Offers to trade LQ accounts because they are bored of LQ and want to switch to another game (possibly Sky). Requests the buyer to provide their Facebook account to link with the LQ account. The LQ account information might be fake or inactive. Provided LQ account details: Gmail: Khangchan2010@Minh123@, Usernames: Khangchan2010 and Minh123."
+        }
+    },
+    {
+        "id": "SCS10",
+        "fbName": "Ngđẹp bị khờ (Ng đẹp bị khờ)",
+        "realName": "NGUYEN THI BE",
+        "bank": [
+          {
+            "bankName": "Sacombank",
+            "bankNumber": "040111132323",
+            "accountHolder": "NGUYEN THI BE"
+          }
+        ],
+        "fbUID": [
+        ],
+        "linkWarn": [
+            "https://www.facebook.com/share/p/18dnyDXgnj/",
+            "https://www.facebook.com/share/p/1FPv6LsPP7/"
+        ],
+        "method": {
+          "vi_VN": "Lừa đảo nạp pass game (có thể là Sky: Children of the Light), sau khi nhận tiền thì xóa tin nhắn chứa thông tin ngân hàng và chặn liên lạc.",
+          "en_US": "Scamming by offering to recharge game passes (possibly Sky: Children of the Light), deleting chat history with bank info and blocking contact after receiving payment."
+        },
+        "moreInfo": {
+          "vi_VN": "Đối tượng có tương tác cao trong nhóm và có bài đăng 'check legit' tạo sự tin tưởng. Nạn nhân đã kiểm tra thông tin ngân hàng trong nhóm và tin là an toàn. Đối tượng đặt nạn nhân vào 'slot 3', có thể ám chỉ nhiều nạn nhân khác hoặc kế hoạch lừa đảo tiếp theo. Số tiền bị lừa là 410.000 VND với nội dung chuyển khoản 'Takeru Guzen'. Nạn nhân đã tin tưởng đối tượng do có tương tác thân mật trước đó trong game.",
+          "en_US": "The scammer had high engagement in the group and 'check legit' posts to build trust. The victim checked bank details within the group and believed it was safe. The scammer placed the victim in 'slot 3', possibly indicating other victims or future scams. The amount scammed is 410,000 VND with transaction description 'Takeru Guzen'. The victim trusted the scammer due to previous friendly interactions in the game."
         }
     }
 ]
