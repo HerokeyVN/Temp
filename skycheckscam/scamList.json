@@ -1,3 +1,57 @@
 [
-  
+    {
+        "fbName": "Owbie kinochiwa",
+        "realName": "Severeno Tepen",
+        "fbUID": [
+            "100089817224285"
+        ],
+        "linkWarn": [
+            "https://www.facebook.com/groups/880927309569928/posts/1356458622016792/",
+            "https://www.facebook.com/groups/711962710425941/posts/1003099797978896/"
+        ],
+        "method": "Giao dịch vật phẩm game Sky: Children of the Light (hứa hẹn tặng tim, yêu cầu IAP, chibi mask nhưng không thực hiện giao dịch sau khi nhận được vật phẩm hoặc tim)",
+        "moreInfo": "Người Philippines (Cebuano), nói tiếng Anh không tốt, có thể sử dụng nhiều tên Facebook (Owbie kinochiwa, Owble Kinochiwa, Tepen Severeno). Cảnh báo lừa đảo liên quan đến giao dịch tim và IAP trong game Sky: Children of the Light. Có nhiều nạn nhân."
+    },
+    {
+        "fbName": "Hoàng Huế Trang",
+        "realName": "Hoàng Huế Trang (có thể)",
+        "fbUID": ["100086960373695"],
+        "linkWarn": [
+          "https://www.facebook.com/share/168ATiAVtB/",
+          "https://www.facebook.com/photo?fbid=2396175264081747&set=gm.1369090487420272&idorvanity=880927309569928",
+          "https://www.facebook.com/groups/880927309569928/permalink/1369645784031409/"
+        ],
+        "method": "Bán tài khoản game Sky: Children of the Light giá rẻ bất thường (200k giảm giá), nghi ngờ là tài khoản đánh cắp hoặc dùng ảnh cũ để lừa đảo.",
+        "moreInfo": "Sử dụng ảnh cũ để scam, tài khoản được rao bán là acc pass từ mùa tinh linh xây tổ. Người mua đã nghi ngờ và hỏi ý kiến bạn bè trước khi giao dịch nên tránh được lừa đảo. Địa chỉ trên FB có thể là Thái Nguyên."
+    },
+    {
+        "fbName": "Phuonwq Ankk",
+        "realName": "DAN PHUONG ANH",
+        "bank": [
+          {
+            "bankName": "Vietcombank",
+            "bankNumber": "1911629424",
+            "accountHolder": "DAN PHUONG ANH"
+          }
+        ],
+        "fbUID": [],
+        "linkWarn": [
+            "https://www.facebook.com/groups/880927309569928/permalink/1365518821110772"
+        ],
+        "method": "Bảo hành gift card (GC) và tài khoản Steam, sau đó chiếm đoạt tài khoản và gỡ bỏ thông tin khôi phục.",
+        "moreInfo": "Gmail liên kết: jzin209@gmail.com, Steam liên kết: yieminamamoto123. Đối tượng đã gỡ bỏ hết các tùy chọn khôi phục và số điện thoại khỏi tài khoản Gmail. Không thể nhắn tin qua Facebook với đối tượng."
+    },
+    {
+        "fbName": "Phuc Hoang",
+        "realName": "Phuc Hoang (có thể)",
+        "fbUID": [
+            "61552478035816"
+        ],
+        "linkWarn": [
+          "https://www.facebook.com/groups/880927309569928/permalink/1341613683501286/",
+          "https://www.facebook.com/share/p/1EXcKox8XV/"
+        ],
+        "method": "Bình luận dạo vào các bài viết tìm pass share acc, sau đó chiếm đoạt tài khoản. Nghi ngờ bán 'acc trắng', chào mời 'check LG buff' (có thể là lừa đảo), sử dụng ảnh tài khoản của người khác để rao bán.",
+        "moreInfo": "FB bị cảnh báo là mạo danh và lừa đảo. Cảnh báo nên cẩn thận, đặc biệt vào dịp Tết."
+    }
 ]
