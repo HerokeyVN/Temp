@@ -1,5 +1,6 @@
 [
     {
+        "ID": "SCS1",
         "fbName": "Owbie kinochiwa",
         "realName": "Severeno Tepen",
         "fbUID": [
@@ -15,7 +16,9 @@
     {
         "fbName": "Hoàng Huế Trang",
         "realName": "Hoàng Huế Trang (có thể)",
-        "fbUID": ["100086960373695"],
+        "fbUID": [
+            "100086960373695"
+        ],
         "linkWarn": [
           "https://www.facebook.com/share/168ATiAVtB/",
           "https://www.facebook.com/photo?fbid=2396175264081747&set=gm.1369090487420272&idorvanity=880927309569928",
@@ -53,5 +56,30 @@
         ],
         "method": "Bình luận dạo vào các bài viết tìm pass share acc, sau đó chiếm đoạt tài khoản. Nghi ngờ bán 'acc trắng', chào mời 'check LG buff' (có thể là lừa đảo), sử dụng ảnh tài khoản của người khác để rao bán.",
         "moreInfo": "FB bị cảnh báo là mạo danh và lừa đảo. Cảnh báo nên cẩn thận, đặc biệt vào dịp Tết."
-    }
+    },
+    {
+        "fbName": "Hoang An",
+        "realName": "Tran Van Hoang An",
+        "bank": [
+          {
+            "bankName": "MBbank",
+            "bankNumber": "88881012078888",
+            "accountHolder": "TRAN VAN HOANG AN"
+          }
+        ],
+        "fbUID": [
+            "100088679427479"
+        ],
+        "linkWarn": [
+          "https://www.facebook.com/groups/880927309569928/permalink/1358873848441936/"
+        ],
+        "method": {
+          "vi_VN": "Lừa đảo trong game Liên Quân (LQ), quản trị viên các nhóm lừa đảo trong LQ và Sky: Children of the Light. Tạo nhóm để lừa người mới.",
+          "en_US": "Scammer in Liên Quân (LQ) game, admin of scam groups in LQ and Sky: Children of the Light. Creates groups to scam newbies."
+        },
+        "moreInfo": {
+          "vi_VN": "Thành viên của một đường dây lừa đảo. Nên chặn đối tượng này để tránh bị lừa. Các nhóm được nhắc đến có thể là 'Mua Bán Acc Liên Quân Mobile Garena', 'Sky: Children Of The Light ( Mua Bán Và Trao Đổi 💠 ) >', 'Mua Bán Acc Liên Quân Mobile Garena'.",
+          "en_US": "Part of a scam ring. Block this person to avoid being scammed. Groups mentioned might be 'Mua Bán Acc Liên Quân Mobile Garena', 'Sky: Children Of The Light ( Mua Bán Và Trao Đổi 💠 ) >', 'Mua Bán Acc Liên Quân Mobile Garena'."
+        }
+      }
 ]
